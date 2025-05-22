@@ -1,13 +1,15 @@
+import Country from "./components/Country/Country"
 
-import './App.css'
-import Countries from './components/Countries/Countries'
+
+
+
 
 function App() {
  
 
   return (
     <>
-      <Countries/>
+      <Country/>
     </>
   )
 }

@@ -1,0 +1,10 @@
+.single-country{
+    border: 1px solid blue;
+    padding: 20px;
+    border-radius: 10px;
+
+
+}
+.visited{
+    background-color:aquamarine;
+}
